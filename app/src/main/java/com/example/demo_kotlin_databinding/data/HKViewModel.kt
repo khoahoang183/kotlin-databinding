@@ -23,7 +23,7 @@ class HKViewModel : ViewModel() {
         _name.value = value
     }
 
-    fun onChangedlastName(value: String) {
+    fun onChangedLastName(value: String) {
         _lastName.value = value
     }
 
